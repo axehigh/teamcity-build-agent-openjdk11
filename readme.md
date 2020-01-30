@@ -8,7 +8,7 @@
 
  This agent includes OpenJDK 11 as an alternative to the included 1.8 JDK build in the agent.  This is a Linux environment. The additional builds are added to /usr/lib/jvm which is scanned automatically by the Agent on load.
  
- 
+ GitHub repo for this Docker image is located at [https://github.com/axehigh/teamcity-build-agent-openjdk11](https://github.com/axehigh/teamcity-build-agent-openjdk11)
  
 
 
